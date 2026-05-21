@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "build": "mkdir -p dist && cp index.html styles.css dist/ && cp -R public dist/public"
+    "build": "rm -rf dist && mkdir -p dist && cp index.html styles.css dist/ && cp -R public dist/public"
   },
   "devDependencies": {}
 }

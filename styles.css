@@ -42,7 +42,7 @@ a {
   overflow: hidden;
   background:
     linear-gradient(90deg, rgba(4, 20, 76, 0.92), rgba(4, 33, 116, 0.66) 44%, rgba(4, 33, 116, 0.18)),
-    url("public/Brasil figurinhas image.png") center / cover;
+    url("public/brasil-hero.png") center / cover;
   color: white;
 }
 
@@ -329,7 +329,7 @@ h2 {
   gap: 48px;
   background:
     linear-gradient(120deg, rgba(4, 60, 180, 0.95), rgba(8, 160, 68, 0.88)),
-    url("public/Brasil figurinhas image.png") center / cover;
+    url("public/brasil-hero.png") center / cover;
   color: white;
 }
 
